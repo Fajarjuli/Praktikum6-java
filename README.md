@@ -1,4 +1,4 @@
-a# Pemrograman Orientasi Object praktikum6
+# Pemrograman Orientasi Object praktikum6
 
 ##  • Latihan 1
 ![](screenshot/pegawai.png)
